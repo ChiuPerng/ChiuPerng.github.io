@@ -2,7 +2,7 @@
 title: 国泰股票
 SEOTitle: 国泰股票 | CathayStock
 header-img: img/home-bg.jpg
-email: ChiuPerng@gmail.com
+email: chiuperng@gmail.com
 description: "国泰股票 | CathayStock"
 keyword: "国泰股票, CathayStock, 博客, blog"
 url: "https://cathaystock.com" # your host, for absolute URL
@@ -75,7 +75,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "国泰股票 <br> CathayStock"
-sidebar-avatar: /img/logo.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/logoko.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
