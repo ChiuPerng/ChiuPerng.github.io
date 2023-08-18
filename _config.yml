@@ -1,5 +1,5 @@
 # Site settings
-title: CathayStock
+title: 国泰股票
 SEOTitle: 国泰股票 | CathayStock
 header-img: img/home-bg.jpg
 email: ChiuPerng@gmail.com
@@ -17,7 +17,7 @@ RSS: false
 #zhihu_username: 
 github_username: ChiuPerng
 #twitter_username: ChiuPerng
-#facebook_username:  ChiuPerng
+#facebook_username: ChiuPerng
 #linkedin_username:  
 
 # Build settings
@@ -91,5 +91,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "Bing", href: "https://cn.bing.com/" },
   ]
