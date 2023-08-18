@@ -1,10 +1,10 @@
 # Site settings
-title: CathayStock Blog
-SEOTitle: CathayStock的博客 | CathayStock Blog
+title: CathayStock
+SEOTitle: 国泰股票 | CathayStock
 header-img: img/home-bg.jpg
 email: ChiuPerng@gmail.com
-description: "这里是 @CathayStock 的个人博客，与你一起发现更大的世界 | 要做一个盈利的交易员"
-keyword: "CathayStock, @CathayStock, CathayStock的博客, CathayStock Blog, 博客, 个人网站"
+description: "国泰股票 | CathayStock"
+keyword: "国泰股票, CathayStock, 博客, blog"
 url: "https://cathaystock.com" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -74,8 +74,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个盈利的交易员 <br> 长期稳定盈利 @ Meta"
-sidebar-avatar: /img/logo.JPG # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "国泰股票 <br> CathayStock"
+sidebar-avatar: /img/logo.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -91,11 +91,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
     { title: "尹峰以为", href: "http://ingf.github.io/" },
   ]
